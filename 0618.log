@@ -1,76 +1,50 @@
-2024-06-18 15:51:16.466909 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:17.507658 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:19.538525 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:23.217047 <WARNING> [SGDNSClient] DNS query timeout: gateway.icloud.com.cn, last error: N/A
-2024-06-18 15:51:23.674941 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:24.131723 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:24.306788 <WARNING> [SGConnectionSetupContext-121] Connection setup failed with error: Connection timeout (SGErrorDomain:7), ocsp.digicert.com:80
-2024-06-18 15:51:24.308233 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:25.130587 <WARNING> [SGDNSClient] DNS query timeout: ocsp.digicert.com, last error: Timeout
-2024-06-18 15:51:25.132037 <WARNING> [SGDirectConnector-93] DNS failed: ocsp.digicert.com, DNS lookup failed: Timeout
-2024-06-18 15:51:25.133302 <WARNING> [SGConnectionSetupContext-123] Connection setup failed with error: DNS lookup failed: Timeout (SGErrorDomain:1), ocsp.digicert.com:80
-2024-06-18 15:51:25.260654 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:26.141378 <WARNING> [SGDNSClient] DNS query timeout: kt-prod.ess.apple.com, last error: N/A
-2024-06-18 15:51:26.142231 <WARNING> [SGDirectConnector-88] DNS failed: kt-prod.ess.apple.com, DNS lookup failed: Timeout
-2024-06-18 15:51:26.142790 <WARNING> [SGConnectionSetupContext-122] Connection setup failed with error: DNS lookup failed: Timeout (SGErrorDomain:1), kt-prod.ess.apple.com:443
-2024-06-18 15:51:26.294715 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:28.078726 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:28.375312 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:32.566906 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:35.179041 <WARNING> [SGDNSClient] DNS query timeout: ocsp.digicert.com, last error: N/A
-2024-06-18 15:51:35.179835 <WARNING> [SGConnectionSetupContext-124] Connection setup failed with error: Connection timeout (SGErrorDomain:7), ocsp.digicert.com:80
-2024-06-18 15:51:35.181125 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:36.177463 <WARNING> [SGConnectionSetupContext-125] Connection setup failed with error: Connection timeout (SGErrorDomain:7), kt-prod.ess.apple.com:443
-2024-06-18 15:51:36.178090 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:37.134854 <WARNING> [SGDNSClient] DNS query timeout: kt-prod.ess.apple.com, last error: Timeout
-2024-06-18 15:51:37.136252 <WARNING> [SGDirectConnector-102] DNS failed: kt-prod.ess.apple.com, DNS lookup failed: Timeout
-2024-06-18 15:51:37.137463 <WARNING> [SGConnectionSetupContext-126] Connection setup failed with error: DNS lookup failed: Timeout (SGErrorDomain:1), kt-prod.ess.apple.com:443
-2024-06-18 15:51:40.627037 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:44.239833 <WARNING> [SGDNSClient] DNS query timeout: kt-prod.ess.apple.com, last error: N/A
-2024-06-18 15:51:44.243523 <WARNING> [SGDirectConnector-104] DNS failed: kt-prod.ess.apple.com, DNS lookup failed: Timeout
-2024-06-18 15:51:44.247059 <WARNING> [SGConnectionSetupContext-127] Connection setup failed with error: DNS lookup failed: Timeout (SGErrorDomain:1), kt-prod.ess.apple.com:443
-2024-06-18 15:51:47.174179 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:47.337343 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:48.378210 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:50.421592 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:51.389077 <WARNING> [SGDNSClient] DNS query timeout: kt-prod.ess.apple.com, last error: N/A
-2024-06-18 15:51:51.390724 <WARNING> [SGDirectConnector-109] DNS failed: kt-prod.ess.apple.com, DNS lookup failed: Timeout
-2024-06-18 15:51:51.391796 <WARNING> [SGConnectionSetupContext-128] Connection setup failed with error: DNS lookup failed: Timeout (SGErrorDomain:1), kt-prod.ess.apple.com:443
-2024-06-18 15:51:54.325053 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:54.525362 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 15:51:57.783003 <WARNING> [_SGHTTPClientSiteSession] HTTP client error: Error Domain=SGErrorDomain Code=0 "Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)" UserInfo={NSLocalizedDescription=Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)}
-2024-06-18 15:51:57.785595 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)" UserInfo={NSLocalizedDescription=Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)}
-2024-06-18 15:51:57.786182 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)" UserInfo={NSLocalizedDescription=Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)}
-2024-06-18 15:51:57.786829 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)" UserInfo={NSLocalizedDescription=Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)}
-2024-06-18 15:51:57.787314 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)" UserInfo={NSLocalizedDescription=Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)}
-2024-06-18 15:51:58.469698 <WARNING> [SGDNSClient] DNS query timeout: kt-prod.ess.apple.com, last error: Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)
-2024-06-18 15:51:58.470443 <WARNING> [SGDirectConnector-112] DNS failed: kt-prod.ess.apple.com, DNS lookup failed: Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)
-2024-06-18 15:51:58.470910 <WARNING> [SGConnectionSetupContext-129] Connection setup failed with error: DNS lookup failed: Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6) (SGErrorDomain:1), kt-prod.ess.apple.com:443
-2024-06-18 16:17:56.630863 <WARNING> [SGDNSClient] DNS query timeout: bag.itunes.apple.com, last error: N/A
-2024-06-18 16:17:56.633993 <WARNING> [SGDNSClient] DNS query timeout: cn-api.qweather.com, last error: N/A
-2024-06-18 16:17:56.637199 <WARNING> [SGDNSClient] DNS query timeout: entitlements.itunes.apple.com, last error: N/A
-2024-06-18 16:17:56.637941 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 16:17:57.241955 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 16:17:57.288164 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 16:17:57.637287 <WARNING> [SGDNSClient] DNS query timeout: gateway.icloud.com.cn, last error: N/A
-2024-06-18 16:17:58.594531 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 16:17:59.640370 <WARNING> [SGDNSClient] DNS query timeout: ocsp.digicert.cn, last error: N/A
-2024-06-18 16:17:59.641859 <WARNING> [SGDirectConnector-144] DNS failed: ocsp.digicert.cn, DNS lookup failed: Timeout
-2024-06-18 16:17:59.642957 <WARNING> [SGConnectionSetupContext-160] Connection setup failed with error: DNS lookup failed: Timeout (SGErrorDomain:1), ocsp.digicert.cn:80
-2024-06-18 16:17:59.694988 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 16:18:06.649573 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 16:20:18.535260 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 16:20:20.498982 <WARNING> [SGDNSClient] DNS query timeout: ocsp.digicert.cn, last error: Timeout
-2024-06-18 16:20:20.501111 <WARNING> [SGDirectConnector-150] DNS failed: ocsp.digicert.cn, DNS lookup failed: Timeout
-2024-06-18 16:20:20.502196 <WARNING> [SGConnectionSetupContext-163] Connection setup failed with error: DNS lookup failed: Timeout (SGErrorDomain:1), ocsp.digicert.cn:80
-2024-06-18 16:20:23.511675 <WARNING> [SGDNSClient] DNS query timeout: gsp10-ssl-cn.ls.apple.com, last error: N/A
-2024-06-18 16:20:24.031693 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 16:20:32.540079 <WARNING> [SGDNSClient] DNS query timeout: tjsedht.cfprefer1.xyz, last error: N/A
-2024-06-18 16:20:33.523323 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Timeout" UserInfo={NSLocalizedDescription=Timeout}
-2024-06-18 16:20:51.693992 <WARNING> [_SGHTTPClientSiteSession-4] HTTP client error: Error Domain=SGErrorDomain Code=0 "Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)" UserInfo={NSLocalizedDescription=Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)}
-2024-06-18 16:25:01.835340 <NOTIFY> [PacketTunnelProvider] Profile file changed
-2024-06-18 16:30:00.886922 <WARNING> [_SGHTTPClientSiteSession-5] HTTP client error: Error Domain=SGErrorDomain Code=0 "Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)" UserInfo={NSLocalizedDescription=Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)}
-2024-06-18 16:30:00.892378 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)" UserInfo={NSLocalizedDescription=Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)}
-2024-06-18 16:30:00.892712 <WARNING> [SGDNSOverHTTPSSession] DoH HTTP error: Error Domain=SGErrorDomain Code=0 "Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)" UserInfo={NSLocalizedDescription=Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)}
-2024-06-18 16:30:08.545905 <WARNING> [SGDNSClient] DNS query timeout: bag.itunes.apple.com, last error: Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)
-2024-06-18 16:30:08.549083 <WARNING> [SGDNSClient] DNS query timeout: gateway.icloud.com.cn, last error: Master connection closed: Socket closed by remote peer (SGSocketErrorDomain:6)
+2024-06-29 09:45:45.296631 <NOTIFY> [PacketTunnelProvider] Initialized, build: 3261
+2024-06-29 09:45:45.297345 <NOTIFY> [PacketTunnelProvider] System uptime: 5334
+2024-06-29 09:45:45.297389 <NOTIFY> [SGLog] Memory usage: 2.47MB (init)
+2024-06-29 09:45:45.299652 <NOTIFY> [PacketTunnelProvider] System: Version 17.5.1 (Build 21F90), jailbroken: 0
+2024-06-29 09:45:45.405758 <NOTIFY> [SGVirtualIPDatabase] Loaded 22 saved fake DNS mapping records, last address: 198.18.1.23. Took: 74.2 ms
+2024-06-29 09:45:45.408654 <NOTIFY> [SGTMain] Internal controller listens on: 55804
+2024-06-29 09:45:45.415222 <NOTIFY> [PacketTunnelProvider] Load profile: /private/var/mobile/Containers/Shared/AppGroup/646F8BFE-D949-4B8C-A255-60CE899B94E9/iCloud Drive Shadow/Blue.conf
+2024-06-29 09:45:45.444353 <NOTIFY> [SGTMain] Apply module: HomeKit Accessories Quirk
+2024-06-29 09:45:45.444545 <NOTIFY> [SGTMain] Apply module: router.com
+2024-06-29 09:45:45.444777 <NOTIFY> [SGTMain] Apply module: 开屏去广告
+2024-06-29 09:45:45.446086 <NOTIFY> [SGTMain] Apply module: B站去广告
+2024-06-29 09:45:45.451537 <NOTIFY> [SGTMain] Apply module: 什么值得买
+2024-06-29 09:45:45.452783 <NOTIFY> [SGTMain] Apply module: 知乎去广告
+2024-06-29 09:45:45.456071 <NOTIFY> [SGTMain] Apply module: 网易云去广告
+2024-06-29 09:45:45.457423 <NOTIFY> [SGTMain] Apply module: 贴吧净化
+2024-06-29 09:45:45.457860 <NOTIFY> [SGTMain] Apply module: 微信小程序去广告
+2024-06-29 09:45:45.458694 <NOTIFY> [SGTMain] Apply module: 高德地图去广告
+2024-06-29 09:45:45.460334 <NOTIFY> [SGTMain] Apply module: 油管去广告
+2024-06-29 09:45:45.461044 <NOTIFY> [SGTMain] Apply module: 去廣告｜CMS
+2024-06-29 09:45:45.463344 <NOTIFY> [SGTMain] Apply module: XPTV规则
+2024-06-29 09:45:45.465351 <NOTIFY> [SGTMain] Apply module: 神机重定向
+2024-06-29 09:45:45.465517 <NOTIFY> [SGTMain] Apply module: 🍟 Fries: 🌐 General Enhanced
+2024-06-29 09:45:45.466291 <NOTIFY> [SGTMain] Apply module: Revenuecat
+2024-06-29 09:45:45.466639 <NOTIFY> [SGTMain] Apply module: Sub-Store
+2024-06-29 09:45:45.467537 <NOTIFY> [SGTMain] Apply module: Script Hub: 重写 & 规则集转换
+2024-06-29 09:45:45.468168 <NOTIFY> [SGTMain] Apply module: NetSpeed
+2024-06-29 09:45:45.470240 <NOTIFY> [SGTMain] Apply module: Flush DNS
+2024-06-29 09:45:45.470477 <NOTIFY> [SGTMain] Apply module: 机场流量信息
+2024-06-29 09:45:45.470903 <NOTIFY> [SGTMain] Updating core settings, sections: All
+2024-06-29 09:45:45.476077 <NOTIFY> [SGTMain] Apply proxy settings
+2024-06-29 09:45:45.487385 <NOTIFY> [SGTMain] Apply rule settings
+2024-06-29 09:45:45.487416 <NOTIFY> [SGTMain] Apply general settings
+2024-06-29 09:45:45.487501 <NOTIFY> [SGTMain] Effective DNS servers: 223.5.5.5, 223.6.6.6
+2024-06-29 09:45:45.487558 <NOTIFY> [SGTMain] Effective encrypted DNS servers: N/A
+2024-06-29 09:45:45.489531 <NOTIFY> [SGConnectionManager] HTTP proxy listen on interface: 127.0.0.1, port: 6152
+2024-06-29 09:45:45.491216 <NOTIFY> [SGConnectionManager] SOCKS5 proxy listen on interface: 127.0.0.1, port: 6153
+2024-06-29 09:45:45.552471 <NOTIFY> [STNetworkInterfaceManager] Available interfaces: pdp_ip0 (IPv4: 10.69.176.207 IPv6: 240e:404:7920:9837:a4f2:d50c:a5e7:1e4b MTU: 1450) pdp_ip1 (IPv6: 240e:504:7a10:5546:ec44:377c:9612:c22f MTU: 1450) Primary interface: pdp_ip0(10.69.176.207), IPv4: 1, IPv6: 1
+2024-06-29 09:45:45.552530 <NOTIFY> [STNetworkInterfaceManager] Cellular data interface: pdp_ip0
+2024-06-29 09:45:45.553335 <NOTIFY> [PacketTunnelProvider] System DNS Updated (reload, V): 240e:40:8000::10, 219.141.140.10, 219.141.136.10
+2024-06-29 09:45:45.562690 <NOTIFY> [PacketTunnelProvider] SSID: (null)
+2024-06-29 09:45:45.582130 <NOTIFY> [SGTMain] Cellular network: LTE
+2024-06-29 09:45:45.582224 <NOTIFY> [SGTMain] Effective DNS servers: 223.5.5.5, 223.6.6.6, 219.141.140.10, 219.141.136.10
+2024-06-29 09:45:45.582244 <NOTIFY> [SGTMain] Effective encrypted DNS servers: N/A
+2024-06-29 09:45:45.582527 <NOTIFY> [PacketTunnelProvider] Apply tunnel network settings
+2024-06-29 09:45:45.582593 <NOTIFY> [PacketTunnelProvider] Effective working mode: 3
+2024-06-29 09:45:45.943755 <NOTIFY> [PacketTunnelProvider] Service starting completed
+2024-06-29 09:45:45.943922 <NOTIFY> [SGLog] Memory usage: 4.45MB (service starting completed)
+2024-06-29 09:45:46.979849 <NOTIFY> [PacketTunnelProvider] Effective utun MTU: 4000
+2024-06-29 09:45:56.070724 <NOTIFY> [PacketTunnelProvider] Enable iCloud Drive profile auto-updating.
+2024-06-29 09:45:57.237288 <WARNING> [PacketTunnelProvider] Using too much memory (40.00MB), entering low memory mode, performance may be limited.
